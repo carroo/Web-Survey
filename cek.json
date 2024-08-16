@@ -1,0 +1,71 @@
+[
+    [{
+            "id_jawaban": "10",
+            "id_respons": "1",
+            "id_pertanyaan": "1",
+            "id_opsi_terpilih": "1",
+            "teks_jawaban": null,
+            "path_unggahan_file": null
+        },
+        {
+            "id_jawaban": "12",
+            "id_respons": "2",
+            "id_pertanyaan": "1",
+            "id_opsi_terpilih": "2",
+            "teks_jawaban": null,
+            "path_unggahan_file": null
+        }
+    ],
+    [{
+            "id_jawaban": "11",
+            "id_respons": "1",
+            "id_pertanyaan": "2",
+            "id_opsi_terpilih": null,
+            "teks_jawaban": "Terima kasih atas produk yang bagus.",
+            "path_unggahan_file": null
+        },
+        {
+            "id_jawaban": "13",
+            "id_respons": "2",
+            "id_pertanyaan": "2",
+            "id_opsi_terpilih": null,
+            "teks_jawaban": "Produknya sangat memuaskan.",
+            "path_unggahan_file": null
+        },
+        {
+            "id_jawaban": "57",
+            "id_respons": "24",
+            "id_pertanyaan": "2",
+            "id_opsi_terpilih": null,
+            "teks_jawaban": "iya sih harusnya ini itu dan ini",
+            "path_unggahan_file": null
+        }
+    ],
+    [{
+        "id_jawaban": "58",
+        "id_respons": "24",
+        "id_pertanyaan": "14",
+        "id_opsi_terpilih": null,
+        "teks_jawaban": null,
+        "path_unggahan_file": "250723154511-nebula.jpg"
+    }],
+    [{
+            "id_pertanyaan": "15",
+            "teks_opsi": "rumah",
+            "id_opsi_terpilih": "15",
+            "jumlah": "1"
+        },
+        {
+            "id_pertanyaan": "15",
+            "teks_opsi": "hp",
+            "id_opsi_terpilih": "16",
+            "jumlah": "1"
+        },
+        {
+            "id_pertanyaan": "15",
+            "teks_opsi": "sepeda",
+            "id_opsi_terpilih": "17",
+            "jumlah": "1"
+        }
+    ]
+]
